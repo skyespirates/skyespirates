@@ -61,9 +61,9 @@
 <!-- <a href="https://www.instagram.com/darshan_r_27/" target="_blank">
   <img align="center" alt="Darshan R | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp; -->
-<a href="mailto:azizwali414@gmail.com" target="_blank">
+<!-- <a href="mailto:azizwali414@gmail.com" target="_blank">
   <img align="center" alt="Aziz Wali | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
+</a> &nbsp;&nbsp; -->
 <!-- <a href="https://www.darshanr.in/resume">
     <img align="center" alt="Darshan R | Resume" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
 </a> &nbsp;&nbsp; -->
