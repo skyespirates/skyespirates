@@ -24,20 +24,13 @@
 <br />
 
 
-<!-- Profile Trophy -->
-### 🏆 GitHub Profile Trophy:
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=skyespirates&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-</a>
-
-
 <!--   Stats -->
 ### 📊 GitHub Stats:
 ![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=skyespirates&theme=nord&show_icons=true&count_private=true)
   
   
 <!--   Top Languages Using -->
-### 👨‍💻 Top Languages Used*:
+### 👨‍💻 Top Languages Used:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skyespirates&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skyespirates&theme=nord_dark)
 
@@ -59,7 +52,7 @@
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
-<a href="https://www.azizwali.is-a.dev" target="_blank">
+<a href="https://azizwali.is-a.dev" target="_blank">
   <img align="center" alt="Aziz Wali | Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/abdullah-aziz-wali/" target="_blank">
@@ -86,10 +79,4 @@
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/skyespirates/count.svg" />  
 </p>
-   
-  ---
-  *\*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats*
-  
-  ---
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
   
